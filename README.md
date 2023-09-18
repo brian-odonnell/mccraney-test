@@ -1,1 +1,1 @@
-# mccraney-test
+# Vite Scaffolding Test
